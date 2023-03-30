@@ -1,9 +1,9 @@
-# my project
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# My Project
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
   ## Description
 
-  description
+  This is what my project does.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,27 +15,29 @@
 
   ## Installation
 
-  installation
+  This is how to install my project.
 
   ## Usage
 
-  usage
+  This is how to use my project
 
   ## Contributing
 
-  contribution
+  This is how you can contribute to my project.
 
   ## Tests
 
-  testing
+  This is how you can test my project.
 
   ## License
-    GNU General Public License v3.0:
-    https://www.gnu.org/licenses/gpl-3.0
+    Apache License 2.0:
+    https://opensource.org/licenses/Apache-2.0
 
   
 
   ## Questions
+
+  If you have any questions, you can reach me at:
 
   GitHub: [frankolms](https://github.com/frankolms)
 
